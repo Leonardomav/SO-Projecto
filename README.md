@@ -1,6 +1,6 @@
 # SO-projecto
 
-__Projecto de Sistemas Operativos__ - Servidor HTML
+__Projecto de Sistemas Operativos__ - Servidor HTTP
 
 Ano - __2016-2017__
 
